@@ -21,7 +21,7 @@ const Home: FC = () => {
           Hello My Jaan!
         </h1>
         <h2 className="text-xl md:text-2xl font-semibold text-pink-200 mb-2 drop-shadow">
-          This is <span className="text-pink-100 font-bold">your café</span>
+          This is <span className="text-pink-100 font-bold">your tea café</span>
         </h2>
         <p className="italic text-base md:text-lg text-pink-100 drop-shadow-sm">
           Where every cup is a hug and every cat is a friend.
