@@ -18,7 +18,7 @@ const Home: FC = () => {
       {/* Floating Header Box */}
       <div className="absolute top-10 left-4 right-4 bg-black/20 border-2 border-pink-300 rounded-lg px-6 py-6 text-center z-10 shadow-2xl backdrop-blur-md">
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-2 tracking-wider drop-shadow-lg">
-          Hello My Jaan!
+          Hello My Jaansdasd!
         </h1>
         <h2 className="text-xl md:text-2xl font-semibold text-pink-200 mb-2 drop-shadow">
           This is <span className="text-pink-100 font-bold">your tea café</span>
